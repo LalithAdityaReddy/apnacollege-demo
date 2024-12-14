@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
-Author-Lalith Aditya Reddy
+<br>
+Author-Lalith Aditya Reddy.
